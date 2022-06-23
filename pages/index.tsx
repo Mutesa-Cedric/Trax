@@ -9,6 +9,7 @@ const Home: NextPage = () => {
         <title>Listening is everything - Trax</title>
         <link rel="icon" href="/images/logo.svg" />
       </Head>
+      home
     </div>
   )
 }
